@@ -19,3 +19,5 @@ http://crowdzero-frontend.herokuapp.com
 
 ### WEBSITE IMAGES
 <img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Tour.me%20Landing%20Page.png"></img>
+<img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Search%20Screen.png"></img>
+
