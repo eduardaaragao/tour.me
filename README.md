@@ -15,7 +15,7 @@ This solution is a go-to for:
 - Socially open people who want to learn the culture by the eyes of a local native!
 
 ### ACCESS LINK TO PITCH PRESENTATION (WITH GIFS)
-http://crowdzero-frontend.herokuapp.com
+https://www.canva.com/design/DAFRG-2UPf4/PJhdeprdKYiUFbSce3c3Qw/view?utm_content=DAFRG-2UPf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### WEBSITE IMAGES
 <img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Tour.me%20Landing%20Page.png"></img>
