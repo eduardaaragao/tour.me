@@ -18,8 +18,4 @@ This solution is a go-to for:
 http://crowdzero-frontend.herokuapp.com
 
 ### WEBSITE IMAGES
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/crowdzero_landing_page.png"></img>
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/login_screen.png"></img>
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/home_page.png"></img>
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/cadastrar_espaco.png"></img>
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/configuracoes_page.png"></img>
+<img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Tour.me%20Landing%20Page.png"></img>
