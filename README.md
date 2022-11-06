@@ -1,5 +1,5 @@
 ### Tour.me - Geekathon 2022
-<img src="https://github.com/eduardaaragao/crowdzero-website/blob/main/screenshots/apresentacao.png"></img>
+<img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Web%20Mockup.png"></img>
 I bet whenever you travel some place new you do the famous Google search: what to do in x.
 
 Yes, we know how daunting the task of planning your whole trip is. This is why Tour.me helps you to find a local native to show you the city around.
