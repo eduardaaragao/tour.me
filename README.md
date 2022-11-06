@@ -1,4 +1,4 @@
-### Tour.me - Geekathon 2022
+### Tour.me - Geekathon 2022 (Team Farofeiros)
 <img src="https://github.com/eduardaaragao/tour.me/blob/main/Prototype/Web%20Mockup.png"></img>
 I bet whenever you travel some place new you do the famous Google search: what to do in x.
 
